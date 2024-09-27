@@ -1,0 +1,31 @@
+CONTROLS:
+W, A, S ,D/Left Analog stick - Movement.
+
+Mouse/Right Analog stick - Camera.
+
+Space Bar/A - Jump.
+
+Left Mouse Button/X - Shoot.
+
+Left CRTL/CLICK Right Analog stick - Crouch.
+
+Left Shift/CLICK Left Analog stick - Sprint.
+
+Right Mouse Button/Gamepad Left Shoulder Button - Lock-on to enemy.
+
+E/Gamepad Right Trigger Axis - Toss Grenade.
+
+Move Mouse Up - Increase Grenade Distance.
+
+Move Mouse Down - Decrease Grenade Distance.
+
+F/Gamepad D-pad Down - QuickDrop.
+
+C/Gamepad D-pad Up - Change.
+
+Q/Gamepad D-pad Left/Right - Reset camera (Camera mode only)
+
+P/Gamepad Special Right - Pause#
+
+REFERENCES:
+To help with the Artefact I have used: Animation Starter Pack by Epic Games - Epic Content.
